@@ -1,7 +1,7 @@
 ---
 title: "Genomes of Subaerial Zygnematophyceae Provide Insights into Land Plant Evolution"
 collection: publications
-permalink: /publication/2019-11-14-paper-CELL.md
+permalink: /publication/2019-11-14-paper-CELL
 excerpt: 'This paper is about land plant evolution.'
 date: 2019-11-14
 venue: 'CELL'
