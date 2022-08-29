@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@DTU](https://orbit.dtu.dk/en/persons/linzhou-li). 
+This is Linzhou Li's personal homepage. Please also refer to my [homepage@DTU](https://orbit.dtu.dk/en/persons/linzhou-li). 
 
 ## A short introduction
 I am a PhD candidate study in Bioengineering of [Technical University of Denmark](https://www.dtu.dk/) working in the field of Bioinformatics. I am also working in the biggest sequencing company all over the world -- [BGI](https://www.genomics.cn/).
